@@ -1,0 +1,68 @@
+<component name="libraryTable">
+  <library name="groovy-5.0.0-alpha-1" type="groovy-sdk">
+    <properties version="5.0.0-alpha-1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-astbuilder-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-cli-commons-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-ant-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-cli-picocli-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-contracts-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-datetime-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-dateutil-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-docgenerator-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-ginq-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-console-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-groovydoc-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-jmx-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-json-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-groovysh-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-jsr223-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-macro-library-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-nio-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-macro-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-servlet-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-sql-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-templates-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-test-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-test-junit5-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-testng-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-swing-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-toml-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-typecheckers-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-xml-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-5.0.0-alpha-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-ant-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-astbuilder-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-cli-commons-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-cli-picocli-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-console-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-contracts-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-datetime-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-dateutil-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-docgenerator-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-ginq-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-groovydoc-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-groovysh-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-jmx-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-jsr223-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-json-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-macro-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-macro-library-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-nio-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-servlet-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-sql-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-templates-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-test-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-swing-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-test-junit5-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-toml-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-testng-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-typecheckers-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/DSAConcept/lib/groovy-xml-5.0.0-alpha-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
